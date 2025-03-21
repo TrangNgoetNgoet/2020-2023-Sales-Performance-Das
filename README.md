@@ -1,7 +1,7 @@
 # Sales Analysis Project (2020–2023)
 
 ## 1. Task Description
-This project focuses on **sales analysis** for a retail store, covering the period from **January 1, 2020, to December 31, 2023**. It involves two main phases:
+This project focuses on **sales and customers analysis** for a retail store, covering the period from **January 1, 2020, to December 31, 2023**. It involves two main phases:
 
 1. **Data Cleaning** using **Python**  
 2. **Data Visualization** using **Power BI**
