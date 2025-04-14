@@ -1,4 +1,4 @@
-# Sales Analysis Project (2020–2023)
+# Superstore Sale Analysis from 2020 to 2023 Project
 
 ## 1. Task Description
 This project focuses on **sales and customers analysis** for a retail store, covering the period from **January 1, 2020, to December 31, 2023**. It involves two main phases:
